@@ -1,4 +1,4 @@
-# Prime Capital Investment
+# WIN-TRADE-INVEST
 
 Professional automated Bitcoin trading platform with AI-powered trading robots delivering consistent returns.
 
