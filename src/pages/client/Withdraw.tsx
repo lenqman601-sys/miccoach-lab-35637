@@ -99,7 +99,7 @@ const Withdraw = () => {
           className="mb-6"
         >
           <ArrowLeft className="h-4 w-4 mr-2" />
-          Back to Dashboard
+          Back main to Dashboard
         </Button>
 
         <Card className="border-warning/30 shadow-[0_0_40px_rgba(255,167,38,0.15)]">
@@ -133,7 +133,7 @@ const Withdraw = () => {
                     ${amount.toLocaleString()}
                   </div>
                   <div className="text-sm text-muted-foreground">
-                    Min: $10 • Max: ${availableBalance.toFixed(2)}
+                    Min: $5000 • Max: ${availableBalance.toFixed(2)}
                   </div>
                 </div>
                 <Slider
