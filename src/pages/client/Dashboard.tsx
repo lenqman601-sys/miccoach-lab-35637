@@ -109,11 +109,11 @@ const ClientDashboard = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <TrendingUp className="h-8 w-8 text-primary" />
-            <h1 className="text-2xl font-bold">TCM Financial</h1>
+            <h1 className="text-2xl font-bold">WIN-TRADE-INVEST</h1>
           </div>
           <div className="flex items-center gap-4">
             <div className="text-right">
-              <div className="text-sm text-muted-foreground">Welcome back</div>
+              <div className="text-sm text-muted-foreground">Welcome back investor</div>
               <div className="font-semibold">{profile?.full_name || user?.email}</div>
             </div>
             <Button variant="ghost" size="icon" onClick={signOut}>
